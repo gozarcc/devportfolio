@@ -1,0 +1,39 @@
+body {
+	background: url(../assets/images/bg.jpg) no-repeat center fixed;
+	-webkit-background-size: cover; /*targets google chrome and safari web browsers*/
+	-moz-background-size: cover; /*mozilla firefox*/
+	-o-background-size: cover; /*opera*/
+	background-size: cover;
+	font-family: 'Saira Extra Condensed', sans-serif;
+}
+
+h1 {
+	color: #b75749;
+	font-size: 55px;
+	margin-bottom: 0;
+}
+
+h2 {
+	color: #b75749;
+	font-size: 18px;
+	font-weight: bold;
+	margin-top: 0;
+}
+
+.bio {
+	color: #eabf8a;
+	font-size: 14px;
+}
+
+.about {
+	width: 600px;
+	margin-left: 80px;
+	margin-right: auto;
+	text-align: center;
+}
+
+.me {
+	height: 150px;
+	border-radius: 100%;
+	margin-top: 40px;
+}
